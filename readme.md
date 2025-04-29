@@ -15,3 +15,9 @@
 - [x] Create Book Class
 - [x] Take user input
 - [x] store the book object in a list
+
+#### add other functionalities to books
+
+- [ ] add quotes to a book
+- [ ] feature to add summary along with choosen chapter
+- [ ] take personal notes

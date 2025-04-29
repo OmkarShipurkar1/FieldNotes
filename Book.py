@@ -11,6 +11,9 @@ class Book:
         self.genre = genre
         self.about = about
         self.date = date.today()
+        self.quotes = []
+        self.notes = []
+        self.chapters_summary = []
 
     def format_name(self, name):
         strs = name.split(" ")
