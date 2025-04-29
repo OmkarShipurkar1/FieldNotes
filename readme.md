@@ -12,6 +12,6 @@
 
 ### command-line based
 
-- [ ] Create Book Class
-- [ ] Take user input
-- [ ] store the book object in a list
+- [x] Create Book Class
+- [x] Take user input
+- [x] store the book object in a list
